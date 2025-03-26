@@ -39,3 +39,4 @@
 Funcionalitat afegida a featureMGM
 Canvi de prova directe a develop
 Marc Garcia – Col·laborador del projecte
+Marc Garcia – Propietària del projecte

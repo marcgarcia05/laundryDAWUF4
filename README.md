@@ -35,3 +35,5 @@
 - Website - [Mohaiminur](https://mohaiminur.ml)
 
 ---
+
+Funcionalitat afegida a featureMGM
